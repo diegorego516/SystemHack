@@ -14,7 +14,7 @@ def system_target_for_login_bypass(Windows11):
 
     def antívirus_to_victimize_on_target_system(Windows11):
         system_target_for_login_bypass = Windows11
-    antívirus_to_victimize_on_target_system = Windows11
+        antívirus_to_victimize_on_target_system = Windows11
     def firewall_to_compromise_on_target_system(Windows11_Firewall):
         firewall_to_compromise_on_target_system = Windows11_Firewall
 
@@ -38,3 +38,4 @@ def hackear_o_sistema(os, sys):
                 print("Seu sistema foi hackeado.")
         except Exception as e:
                 print("Você foi hackeado.")
+        KeyboardInterrupt
